@@ -1,0 +1,1 @@
+print ("industriaall kami datangg")
